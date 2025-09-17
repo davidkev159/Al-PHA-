@@ -1,0 +1,11 @@
+# Node
+server/node_modules/
+client/node_modules/
+# Python
+ai-engine/venv/
+__pycache__/
+# Build
+dist/
+build/
+.env
+.DS_Store
